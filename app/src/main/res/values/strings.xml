@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">The Pooh Game</string>
+    <string name="action_roll">Roll</string>
+    <string name="action_one">One</string>
+    <string name="action_two">Two</string>
+    <string name="action_three">Three</string>
+    <string name="action_stop">Stop</string>
+    <string name="dice_one">1</string>
+    <string name="win">Congrats! You Win!</string>
+    <string name="winMessage">You win! You got the Hunny!</string>
+    <string name="playAgain">Play Again?</string>
+    <string name="gameStartTitle">Welcome to the Pooh Game!</string>
+    <string name="gameInstructions">Welcome! How to play:\n1. Reach a score of 26 to win with 2 dice rolls\n2. Roll with the dice button in the top right corner\n3. Don\'t match 2 of the same numbers or go down 3 branches!\n4. Have fun!</string>
+    <string name="ok">ok!</string>
+
+    <string name="branchDialogue">You are at branch: %d </string>
+    <string name="beeDialogue">Oh No! You got swarmed by bees.\n -3 branches.\n You are at branch: %d </string>
+
+</resources>
